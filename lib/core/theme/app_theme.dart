@@ -4,7 +4,7 @@ import 'app_colors.dart';
 
 ThemeData get appTheme => ThemeData(
     brightness: Brightness.light,
-    fontFamily: GoogleFonts.dmSans().fontFamily,
+    // fontFamily: GoogleFonts.fredoka().fontFamily,
     textTheme: textTheme,
     appBarTheme:
         const AppBarTheme(iconTheme: IconThemeData(color: Colors.black)));
