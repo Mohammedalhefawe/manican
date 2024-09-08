@@ -1,0 +1,11 @@
+{
+  "no_connection": "No internet connection",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "email_validation_message": "You should enter your email",
+  "home": "Home",
+  "change_language": "Change Language",
+  "next": "Next",
+  "previous": "Previous"
+}
