@@ -1,8 +1,21 @@
 ![Logo](Cover.jpg)
 # :sparkles::sparkles: Manican Beauty Center
-
-
-
+1. Appointment and Booking Management
+Adding Clients: The responsible employee can add new clients to the system.
+Appointment Management: Schedule appointments for clients for the desired services.
+Booking Request Approval: Manage and follow up on booking requests from clients.
+2. Employee Attendance Management
+Monitoring Absences and Delays: Integrate the system with a fingerprint device to track employee attendance.
+Attendance Reports: Generate detailed reports for each employee regarding their attendance.
+Attendance Statistics: Monitor attendance statistics for each employee.
+3. Statistics Monitoring
+Branch Statistics: Monitor performance statistics for each branch separately.
+4. Service Management
+Adding Services: Allow supervisors to add new services with their details.
+Available Time Slots: Define available time slots for each service.
+5. Advertisement and Discounts Management
+Adding Discounts: The responsible employee can add discounts and offers on services.
+Scheduling Discounts: Set specific dates for discounts to attract clients.
 
 # manican
 Developers documentation contains setup processes and rules to work in the project.
