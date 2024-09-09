@@ -1,4 +1,4 @@
-![Logo](workout.png)
+![Logo](Cover.jpg)
 # :sparkles::sparkles: Manican Beauty Center
 
 
